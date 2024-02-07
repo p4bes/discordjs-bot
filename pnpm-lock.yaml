@@ -1,0 +1,10 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+dependencies:
+  discord.js:
+    specifier: ^14.14.1
+    version: link:../discord.js/packages/discord.js
